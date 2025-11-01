@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nama": "Kaos Polos Uniqlo",
+    "deskripsi": "Kaos berbahan katun lembut dan nyaman dipakai sehari-hari.",
+    "harga": 99000,
+    "stok": 30
+  },
+  {
+    "id": 2,
+    "nama": "Jaket Kulit Pria",
+    "deskripsi": "Jaket kulit sintetis bergaya kasual dan elegan.",
+    "harga": 350000,
+    "stok": 12
+  },
+  {
+    "id": 3,
+    "nama": "Celana Jeans Wanita",
+    "deskripsi": "Celana jeans slim fit dengan bahan stretch nyaman.",
+    "harga": 225000,
+    "stok": 20
+  },
+  {
+    "id": 4,
+    "nama": "Sepatu Sneakers Putih",
+    "deskripsi": "Sepatu kasual serbaguna untuk pria dan wanita.",
+    "harga": 275000,
+    "stok": 18
+  }
+]
