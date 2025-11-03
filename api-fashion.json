@@ -19,20 +19,7 @@
     "deskripsi": "Celana jeans slim fit dengan bahan stretch nyaman.",
     "harga": 225000,
     "stok": 20
-  },
-  {
-    "id": 4,
-    "nama": "Sepatu Sneakers Putih",
-    "deskripsi": "Sepatu kasual serbaguna untuk pria dan wanita.",
-    "harga": 275000,
-    "stok": 18
-  },
-  {
-    "id": 5,
-    "nama": "Sepatu  Putih",
-    "deskripsi": "Sepatu  serbaguna untuk pria dan wanita.",
-    "harga": 279000,
-    "stok": 10
   }
 ]
+
 
