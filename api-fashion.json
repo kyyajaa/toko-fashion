@@ -26,5 +26,13 @@
     "deskripsi": "Sepatu kasual serbaguna untuk pria dan wanita.",
     "harga": 275000,
     "stok": 18
+  },
+  {
+    "id": 5,
+    "nama": "Sepatu  Putih",
+    "deskripsi": "Sepatu  serbaguna untuk pria dan wanita.",
+    "harga": 279000,
+    "stok": 10
   }
 ]
+
