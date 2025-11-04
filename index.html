@@ -72,7 +72,23 @@
           });
           $("#daftar-produk").html(konten);
         });
+        
+              $.getJSON("https://kyyajaa.github.io/toko-elektronik/api-elektronik.json", function(data) {
+        let konten = "";
+        data.forEach(function(item) {
+          konten += `
+            <div class="card">
+              <p class="nama">${item.nama}</p>
+              <p>${item.deskripsi}</p>
+              <p class="harga">Harga: Rp ${item.harga.toLocaleString()}</p>
+              <p>Stok: ${item.stok}</p>
+            </div>
+          `;
+        });
+        $("#produk-elektronik").html(konten);
+      });
       });
     </script>
   </body>
 </html>
+
